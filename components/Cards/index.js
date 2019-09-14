@@ -55,7 +55,6 @@ function card(whoopty) {
     author.classList.add('author');
     card.appendChild(author);
 
-
     const imgCont = document.createElement('div');
     imgCont.classList.add('img-container');
     author.appendChild(imgCont);
