@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM, or Document Object Model, is an object representation of the HTML elements of a webpage.
+
 2. What is an event?
+
+Any and all interactions a user has with my site.
 
 3. What is an event listener?
 
+An event listener is a function that is "fired" when an event happens.
+
 4. Why would we convert a NodeList into an Array?
 
+There are ways to use arrays and methods, that can only be used with arrays, that make having an array much more dynamic and therefore better than a NodeList.
+
 5. What is a component?
+
+A component is the building block of application development. It is anything that you create and push into the DOM.
 
 ### Git Set up
 
